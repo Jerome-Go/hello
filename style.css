@@ -1,3 +1,7 @@
+body {
+    background-color: bisque;
+}
+
 h1 {
     position: absolute;
     top: 50%;
